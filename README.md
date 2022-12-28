@@ -5,19 +5,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelsachin344&label=Profile%20views&color=0e75b6&style=flat" alt="patelsachin344" /> </p>
 
-- 🔭 I builed a collaborative project [NordStorme.com](https://nordstrom-clone-react.netlify.app/)
-
 - 🌱 I’m currently learning **React.js, Node.js, Express, MongoDb**
+ 
+- 🔭 I builed a collaborative project [NordStorme.com](https://nordstrom-clone-react.netlify.app/)
 
 - 🔭 I builed a collaborative project [Nykaa.com](https://dreamy-gumdrop-ca3b70.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Html Css JavaScript React**
 
-- 📫 How to reach me **sachinpatel7038@gmail.com**
+- 📫 Know more about me [My Portfolio](https://sachinpatel44.netlify.app/)
 
 - ⚡ Fun fact **Programming is a very good skill**
 
 <h3 align="left">Connect with me:</h3>
+
+- 📫 How to reach me **sachinpatel7038@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/pasachin**
+
+
 <p align="left">
 <a href="https://twitter.com/sachinp30393322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinp30393322" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pasachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasachin" height="30" width="40" /></a>
