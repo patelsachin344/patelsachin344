@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Express, MongoDb**
  
-- 🔭 I builed a collaborative project [NordStorme.com](https://nordstrom-clone-react.netlify.app/)
+- 🔭 I builed a solo project [NordStorme.com](https://nordstrome-full-stack.netlify.app/)
 
 - 🔭 I builed a collaborative project [Nykaa.com](https://dreamy-gumdrop-ca3b70.netlify.app/)
 
